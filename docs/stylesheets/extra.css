@@ -1,0 +1,81 @@
+/* Subtle UW-flavored polish */
+:root {
+  --md-primary-fg-color: #c5050c;
+  --md-primary-fg-color--light: #d9332f;
+  --md-primary-fg-color--dark: #9b1b1b;
+  --md-accent-fg-color: #c5050c;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #d9332f;
+  --md-accent-fg-color: #ffb84d;
+}
+
+/* Tighter, more confident headings */
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-top: 2.5rem;
+}
+
+/* Distinctive callout box for the "TL;DR" pattern */
+.md-typeset .admonition.tldr,
+.md-typeset details.tldr {
+  border-color: #c5050c;
+}
+.md-typeset .tldr > .admonition-title,
+.md-typeset .tldr > summary {
+  background-color: rgba(197, 5, 12, 0.08);
+}
+.md-typeset .tldr > .admonition-title::before,
+.md-typeset .tldr > summary::before {
+  background-color: #c5050c;
+  -webkit-mask-image: var(--md-admonition-icon--note);
+          mask-image: var(--md-admonition-icon--note);
+}
+
+/* Quick-reference card grid on the home page */
+.qref-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.qref-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  background: var(--md-code-bg-color);
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+.qref-card:hover {
+  transform: translateY(-2px);
+  border-color: #c5050c;
+}
+.qref-card h4 {
+  margin: 0 0 0.4rem 0;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #c5050c;
+}
+.qref-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* Make the pro-tip admonition feel like a sticky note */
+.md-typeset .admonition.pro-tip,
+.md-typeset details.pro-tip {
+  border-color: #f5a623;
+}
+.md-typeset .pro-tip > .admonition-title,
+.md-typeset .pro-tip > summary {
+  background-color: rgba(245, 166, 35, 0.1);
+}
