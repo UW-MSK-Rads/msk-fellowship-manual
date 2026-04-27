@@ -1,82 +1,44 @@
-# MSK Fellowship Manual
+# MSK Fellowship Manual 2026–2027
 
-**University of Wisconsin – Madison · 2025–2026**
+## Clinical Services
 
-Welcome to the Musculoskeletal Imaging and Intervention fellowship. The first couple months can be tough as you get your feet under you — but once you're up and running, the year flies by.
-
-This manual is the source of truth for how the fellowship runs day-to-day. Use the search bar at the top to find anything fast.
-
----
-
-## Quick reference
-
-<div class="qref-grid" markdown>
-
-<div class="qref-card" markdown>
-#### Arrival time
-**7:15–7:30 AM** for procedures.
-Have cases pulled up and ready to run with attending by 7:30.
-</div>
-
-<div class="qref-card" markdown>
-#### End of day
-List runs until **4:30 PM** completed studies are read out. Watch the **MSK All** list.
-</div>
-
-<div class="qref-card" markdown>
-#### Email check
-**uwhealth.org** twice a day.
-**wisc.edu** once a week.
-</div>
-
-<div class="qref-card" markdown>
-#### Sick day call list
-Clinical team → Fellowship Director → Section Chief → Admin Assistant.
-</div>
-
-<div class="qref-card" markdown>
-#### Schedule
-[Qgenda](#) — web or app.
-Sync to Outlook/Google Calendar.
-</div>
-
-<div class="qref-card" markdown>
-#### Time off deadline
-Submit in Qgenda **before quarterly deadline**. Admin sends reminder.
-</div>
-
-</div>
+- [**Procedures at UH**](procedures-uh.md) — image-guided MSK interventions
+- [**Float at UH**](float.md) — advanced procedures with sedation
+- [**Sports/Spine at UH**](sports-spine.md)
+- [**ED/Bone at UH**](ed-bone.md)
+- [**East Madison Hospital (EMH)**](emh.md)
+- [**Science Drive Medical Center (SMC)**](smc.md)
 
 ---
 
-## The 6 clinical services
+## Daily Operations
 
-Over the year you'll rotate through six services with roughly equal time on each:
+- [**Daily Workflow**](daily-workflow.md) — what your day looks like start to finish
+- [**Communication**](communication.md) — how to reach techs, faculty, and referrers
 
-1. [**Procedures at UH**](procedures-uh.md) — image-guided MSK interventions
-2. **Float at UH** — advanced procedures with sedation
-3. **Sports/Spine at UH**
-4. **ED/Bone at UH**
-5. **East Madison Hospital (EMH)**
-6. **Science Drive Medical Center (SMC)**
+## On Call
 
-!!! note "The shared list rule"
-    Regardless of service assignment, **everyone helps finish the list**. The MSK section uses a shared work list. Keep an eye on **MSK All** throughout the day, especially as 4:30 approaches.
+- [**Taking Call**](taking-call.md) — call structure, weekend and holiday coverage
 
----
+## Schedule & Time Off
 
-## What's new this year
+- [**Clinical Schedule**](clinical-schedule.md) — rotation block schedule and assignments
+- [**Time Off Requests**](time-off.md) — vacation, conference leave, and last-minute changes
 
-!!! tldr "Read me first"
-    - Up to 3 fellows may attend SSR if presenting a podium abstract
-    - Two fellows may be off simultaneously (with director approval) — but not for recurring consecutive blocks
-    - Vertebroplasty conference: every other month, Dr. Ross will email for cases
+## Conferences & Academics
 
----
+- [**Teaching Conferences**](conferences.md) — recurring fellow and section conferences
+- [**Academic Time**](academic-time.md) — protected time and how to use it
+- [**Meeting Attendance**](meetings.md) — which meetings are required
+- [**Meeting Dates**](meeting-dates.md) — calendar of key dates
+- [**Research**](research.md) — expectations and project support
 
-## How to use this manual
+## Logistics & Reference
 
-- **Search bar (top right)** indexes every page — fastest way to find anything
-- **Dark mode toggle** is in the top right next to search
-- Click any **chevron (›)** in the sidebar to expand a section
-- Most rotations have a **"The basics"** collapsible at the top — that's the 30-second version. Expand **"The details"** when you need more
+- [**Logistics**](logistics.md) — scrubs, white coats, offices, reimbursement, moonlighting
+- [**WIMR Contrast Coverage**](wimr-contrast.md)
+- [**MSK RR Priorities**](rr-priorities.md)
+- [**Discrepancies (Prelim/Final)**](discrepancies.md)
+- [**Spine Imaging Workflow**](spine-workflow.md)
+- [**Contact List**](contacts.md) — phone numbers and pagers
+- [**Wellness Resources**](wellness.md)

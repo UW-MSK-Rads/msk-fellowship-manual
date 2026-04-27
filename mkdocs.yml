@@ -70,11 +70,30 @@ nav:
     - Communication: communication.md
   - Clinical Rotations:
     - Procedures at UH: procedures-uh.md
+    - Float at UH: float.md
+    - Sports/Spine: sports-spine.md
+    - ED/Bone: ed-bone.md
+    - East Madison Hospital: emh.md
+    - Science Drive Medical Center: smc.md
   - On Call:
     - Taking Call: taking-call.md
   - Schedule & Time Off:
+    - Clinical Schedule: clinical-schedule.md
     - Time Off Requests: time-off.md
-    - Conference Dates: conferences.md
+  - Conferences & Academics:
+    - Teaching Conferences: conferences.md
+    - Academic Time: academic-time.md
+    - Meeting Attendance: meetings.md
+    - Meeting Dates: meeting-dates.md
+    - Research: research.md
+  - Logistics & Reference:
+    - Logistics: logistics.md
+    - WIMR Contrast Coverage: wimr-contrast.md
+    - MSK RR Priorities: rr-priorities.md
+    - Discrepancies (Prelim/Final): discrepancies.md
+    - Spine Imaging Workflow: spine-workflow.md
+    - Contact List: contacts.md
+    - Wellness Resources: wellness.md
 
 extra:
   generator: false
