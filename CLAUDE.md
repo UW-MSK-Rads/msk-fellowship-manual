@@ -54,17 +54,17 @@ The `procedures-uh.md` page is the current reference for what a well-structured 
 
 ## Navigation structure
 
-The top-level navigation is:
+`mkdocs.yml`'s `nav:` block is the source of truth. Current top-level sections:
 
-1. **Home** — quick-reference cards, the six-services overview, what's new this year
-2. **Daily Operations** — daily workflow, communication
-3. **Clinical Rotations** — one page per service (UH Procedures, Float, Sports/Spine, ED/Bone, EMH, SMC)
-4. **On Call** — call structure, weekend/holiday coverage, late readout
-5. **Schedule & Time Off** — clinical schedule, academic time, time off policy, last-minute changes
-6. **Conferences & Academics** — teaching conferences, academic time, meeting attendance, conference dates *(structure tentative — under discussion)*
-7. **Reference** — fellowship requirements, logistics (scrubs, white coats, offices, expense reimbursement, moonlighting), and the original five appendices (RR priorities, spine workflow, contrast guidelines, joint aspirations setup, leave statements) *(tentative — under discussion)*
+1. **Home** (`index.md`) — quick-reference cards, the six-services overview, what's new this year
+2. **Daily Operations** — `daily-workflow.md`, `communication.md`
+3. **Clinical Rotations** — one page per service: `procedures-uh.md`, `float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`
+4. **On Call** — `taking-call.md`
+5. **Schedule & Time Off** — `clinical-schedule.md`, `time-off.md`
+6. **Conferences & Academics** — `conferences.md`, `academic-time.md`, `meetings.md`, `meeting-dates.md`, `research.md`
+7. **Logistics & Reference** — `logistics.md`, `wimr-contrast.md`, `rr-priorities.md`, `discrepancies.md`, `spine-workflow.md`, `contacts.md`, `wellness.md`
 
-When the structure is finalized, this section gets updated and `mkdocs.yml`'s `nav:` block becomes the source of truth.
+When adding, removing, or renaming a page, update `mkdocs.yml` to match.
 
 ## Workflow conventions
 
@@ -76,14 +76,9 @@ When the structure is finalized, this section gets updated and `mkdocs.yml`'s `n
 
 ## What's already done
 
-The initial scaffold was built in conversation with Claude before the project moved to Claude Code. As of the first commit, these pages exist as functional drafts:
+Every page in the nav exists as a file in `docs/`, but most are stubs awaiting migration from the source manual. State as of the latest pass:
 
-- `index.md` — home with quick-ref cards
-- `daily-workflow.md`
-- `communication.md`
-- `procedures-uh.md` — the reference example for rotation pages
-- `taking-call.md`
-- `time-off.md`
-- `conferences.md`
+- **Functional drafts** (establish the pattern, will get further edits): `index.md`, `daily-workflow.md`, `communication.md`, `procedures-uh.md`, `taking-call.md`, `time-off.md`.
+- **Stubs** (skeleton + headings only, content not yet migrated): everything else — `clinical-schedule.md`, `academic-time.md`, `conferences.md`, `meetings.md`, `meeting-dates.md`, `research.md`, `float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`, `logistics.md`, `wimr-contrast.md`, `rr-priorities.md`, `discrepancies.md`, `spine-workflow.md`, `contacts.md`, `wellness.md`.
 
-These will likely get further edits, but they establish the pattern. Most of the remaining content needs to be migrated from the source manual.
+`procedures-uh.md` remains the reference example for rotation pages. Match its pattern when filling in the rotation stubs (`float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`): TL;DR → checklist or timeline → collapsibles for details → related links at the bottom.
