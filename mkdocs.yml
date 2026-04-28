@@ -69,8 +69,8 @@ nav:
     - Daily Workflow: daily-workflow.md
     - Communication: communication.md
   - Clinical Rotations:
-    - Procedures at UH: procedures-uh.md
-    - Float at UH: float.md
+    - Procedures: procedures-uh.md
+    - Float: float.md
     - Sports/Spine: sports-spine.md
     - ED/Bone: ed-bone.md
     - East Madison Hospital: emh.md

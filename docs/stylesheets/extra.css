@@ -26,17 +26,25 @@
 /* Distinctive callout box for the "TL;DR" pattern */
 .md-typeset .admonition.tldr,
 .md-typeset details.tldr {
-  border-color: #c5050c;
+  border-color: #ffffff;
+  box-shadow: 0 0 0 1px var(--md-default-fg-color--lightest);
 }
 .md-typeset .tldr > .admonition-title,
 .md-typeset .tldr > summary {
   background-color: rgba(197, 5, 12, 0.08);
+  font-size: 1rem;
 }
 .md-typeset .tldr > .admonition-title::before,
 .md-typeset .tldr > summary::before {
   background-color: #c5050c;
   -webkit-mask-image: var(--md-admonition-icon--note);
           mask-image: var(--md-admonition-icon--note);
+}
+.md-typeset .tldr p,
+.md-typeset .tldr ul,
+.md-typeset .tldr ol,
+.md-typeset .tldr li {
+  font-size: 0.95rem;
 }
 
 /* Quick-reference card grid on the home page */
@@ -68,6 +76,30 @@
   margin: 0;
   font-size: 0.9rem;
   line-height: 1.4;
+}
+
+/* Larger body text on rotation pages — they're reference reading, not skim */
+.md-typeset .rotation-page p,
+.md-typeset .rotation-page ul,
+.md-typeset .rotation-page ol,
+.md-typeset .rotation-page li {
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+/* Slightly larger top nav tabs for readability */
+.md-tabs__link {
+  font-size: 0.8rem;
+}
+
+/* Home page acts as a navigation hub — scale up text for scan-ability */
+.md-typeset .home-nav .admonition-title,
+.md-typeset .home-nav summary {
+  font-size: 1rem;
+}
+.md-typeset .home-nav ul li {
+  font-size: 0.95rem;
+  line-height: 1.7;
 }
 
 /* Make the pro-tip admonition feel like a sticky note */
