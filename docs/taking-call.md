@@ -1,79 +1,31 @@
 # Taking Call
 
 !!! tldr "TL;DR"
-    Fellows share call with faculty. Call week runs **Monday 7:30 AM → following Monday 7:30 AM** (Tuesday if Monday is a holiday). Your **first call week** you're backup; attending is primary — that's your orientation.
+    Fellows share call with faculty. Call week runs **Monday 7:30 AM → following Monday 7:30 AM** (Tuesday if Monday is a holiday). Your first call week you're back up and your attending is primary. This is your chance to get oriented to the on call workflow before you start taking primary call.
 
-## How call weeks work
+## Call week workflow
 
-Each call week begins **Monday at 7:30 AM** and ends the following **Monday at 7:30 AM**. (Tuesday-to-Tuesday if there's a Monday holiday.)
+Check in with your attending at the start of your on call week. Your attending will cover late readout (ED studies up to 9 PM) on Monday–Wednesday and you will cover Thursday–Friday. On the weekends, you will start reading studies at 7:30 AM. Read out the overnight studies. Notify the ED of any [discrepancies](discrepancies.md) and send a Teams message to the resident for any significant changes. The residents begin their coverage at 9 AM. At that point, you should over-read their studies every few hours. You will also dictate and final sign all inpatient studies (any modality) and all outpatient radiographs. Outpatient MRI and CT can wait until Monday.
 
-While on call, the on-call radiology resident may contact you for MSK imaging questions or to come in for MSK joint aspirations.
+## Time sensitive studies
 
-!!! note
-    Neither you nor the faculty receive extra pay for call — it's part of the fellowship training.
+- Need to be within 30 minutes of a workstation during the week you're on call.
+- OR post-op foreign body studies: between 4:30 PM and 1:00 AM these should be directed to the Emergency Radiologist. The tech should page the resident first and then the ER radiologist. We read them at other times.
+- Spine localizations: you may get called on these but we have not committed to real time spine reads after hours. Call back and explain that you will read the study out as soon as you can, within 30 minutes.
 
----
+## Faculty Backup
 
-## Weekend & holiday daytime coverage
+Your back up faculty is always available to help. They can answer workflow questions, provide opinions on imaging, and back you up on procedures either in person or help in planning.
 
-=== "Saturday & Sunday"
-    | Time | What |
-    |---|---|
-    | **By 7:30 AM** | Arrive, review overnight studies |
-    | **~8:00 AM** | Read out senior overnight resident — they come find you in G3/346 |
-    | **9:00 AM** | Read out junior resident remotely (phone/Webex) |
-    | **Through ~12:00** | Read all MSK radiographs, inpatient CTs and MRIs on **MSK ALL** |
-    | **Afternoon** | Free, after morning studies dictated |
-    | **Evening** | Return (in person or remote) to read out junior resident on ED studies completed before **8:00 PM** |
+## Procedures on call
 
-    !!! pro-tip "Mid-afternoon readout pays off"
-        Doing a readout in the middle of the afternoon — not just one late evening readout — often makes the evening much shorter.
+MSK covers after hours joint aspirations at the downtown hospital. This includes overnight and weekend coverage.
 
-=== "What you don't have to read"
-    - **Late outpatient MR scans** from SMC, EMH, and 1SP from Friday evening
-    - **Outpatient MRIs done over the weekend** at any site (these wait until Monday)
-
-=== "Spine studies"
-    MSK reads all spine CTs and spine MRIs ordered by ER and inpatients on Ortho spine surgery weeks (per the schedule on the webpage), **as long as a head/maxillofacial study is not ordered at the same time**.
-
-    !!! warning "Check for tagged studies"
-        New techs sometimes send only the spine and not the head/maxillofacial. Before reading a spine study, **check for a concomitant head CT** — clinicians don't want to walk to multiple reading rooms for interpretations.
-
----
-
-## Late readout (weekdays)
-
-Radiology has committed to providing final faculty interpretations for **ED studies only** (radiographs and cross-sectional) — **not inpatient or outpatient.**
-
-| | Cutoff for final faculty interpretation |
-|---|---|
-| Weekdays | **9:00 PM** |
-| Weekends | **8:00 PM** |
-
-**Coverage assignment:**
-
-- **M–W evenings:** attendings cover
-- **Thu & Fri evenings of your call week:** **you** cover (occasionally on non-call weeks too)
-
-You'll read out the junior resident, providing a final report for all ED exams completed before the cutoff.
-
----
-
-## Faculty backup
-
-A faculty member is assigned as backup for:
-
-- Questions
-- Urgent second opinions on imaging
-- Help with interventional procedures
-
-!!! note
-    Faculty will **always come in** to assist on the rare spine or biopsy procedures.
-
----
-
-## Joint aspirations on call
-
-You may get paged to cover joint aspirations after hours — at night or over the weekend.
-
-See [Setting up joint aspirations on call](#) for the full workflow.
+- If paged for a procedure, get standard patient information (consentable, patient location, etc.) and determine urgency of procedure.
+- If procedure can be deferred to next morning, we have a weekday add on ultrasound slot at 8 AM. Send a message in Teams to this group and follow up in the morning to be sure it gets scheduled promptly.
+- If procedure needs to be done overnight, determine modality. For fluoroscopic procedures call the DR charge phone at 608-576-5728 or pager 7941. For ultrasound, call 262-5279.
+- Make sure the referring provider has placed the procedure order (correct modality) and fluid analysis orders.
+- If you need conscious sedation, page the radiology nurse at "RADIOLOGY NURSE/NEURO" to set this up (rare).
+- We do not cover pediatric procedures on call. If paged for this, refer them to the pediatric radiologist on call.
+- We do not cover after hours procedures at EMH. The patient can be transferred to UH for the procedure and then returned to EMH (EMH charge nurse can set up medical transport).
+- Low threshold to consult your back up attending about any issues.
