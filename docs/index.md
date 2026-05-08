@@ -13,8 +13,8 @@
 
 ??? abstract "Daily Operations"
 
-    - [**Daily Workflow**](daily-workflow.md) — what your day looks like start to finish
-    - [**Communication**](communication.md) — how to reach techs, faculty, and referrers
+    - [**Daily Operations**](daily-operations.md) — what your day looks like start to finish
+    - [**Communication**](daily-operations.md#communication) — how to reach techs, faculty, and referrers
 
 ??? abstract "On Call"
 

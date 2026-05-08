@@ -65,9 +65,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Daily Operations:
-    - Daily Workflow: daily-workflow.md
-    - Communication: communication.md
+  - Daily Operations: daily-operations.md
   - Clinical Rotations:
     - Procedures: procedures-uh.md
     - Float: float.md

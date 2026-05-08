@@ -59,7 +59,7 @@ For procedures requiring conscious sedation (vertebroplasties, bone biopsies, ab
 
 ## Related pages
 
-- [Daily workflow](daily-workflow.md) — the shared list rule and end-of-day expectations
+- [Daily Operations](daily-operations.md) — schedule lookup and communication expectations
 - [Taking call](taking-call.md) — joint aspirations after hours
 
 </div>

@@ -67,7 +67,7 @@ See [conference dates](conferences.md) for specific weeks this year.
 |---|---|
 | Death of immediate family (grandparents, parents, uncle, aunt, spouse) | Up to **3 paid clinic days** of bereavement leave |
 | Job interviews | Use **vacation days** — not sick or academic |
-| Sick day | Notify per [communication policy](communication.md). If we pull a fellow from academic to cover, you owe them academic time back. |
+| Sick day | Notify per [communication policy](daily-operations.md#communication). If we pull a fellow from academic to cover, you owe them academic time back. |
 
 !!! warning "Don't stake claims"
     Don't request more days off than you have vacation days as a way to "stake your claim" on certain days. Out of courtesy to your co-fellows.
