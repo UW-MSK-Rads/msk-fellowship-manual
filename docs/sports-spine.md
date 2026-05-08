@@ -1,8 +1,8 @@
 # Sports/Spine
 
 !!! tldr "The Basics"
-    - **Arrive:** by **7:30 AM** — earlier early in the year
-    - **First thing:** start dictating MRs so you're ready for the first read-out (~5 cases early year, ~7 later)
+    - **Arrive:** by **7:15 AM**
+    - **First thing:** start dictating MRIs so you're ready for a first read-out of **5–8 cases by 8:00 AM**
     - **Primary role:** outpatient MSK MR & CT (joints + spine) on the **MSK OP MR & CT** list; protocoling joint MR/CT via **MSK PROTOCOL**
     - **Secondary role:** dictate radiographs
 
@@ -20,14 +20,6 @@ EMH picks up ≥10 outpatient MR/CT and SMC ≥5 to help decompress your list.
 
 ---
 
-## Sharing cases
-
-When the radiology resident arrives, share MR and CT cases with them. In the second half of the year, an abdominal or MR fellow may also rotate through.
-
-Take time to call the resident over for interesting or classic cases. Encourage them to ask questions before read-out.
-
----
-
 ## Spine and pediatric ownership
 
 - **Outpatient spine MR/CT** is shared with Neuroradiology. We read Ortho spine, Rehab spine, family medicine, and outside providers. Neuro reads Neurology, Oncology, Neurosurgery, internal medicine. See [Spine imaging workflow](spine-workflow.md) when in doubt.
@@ -35,9 +27,11 @@ Take time to call the resident over for interesting or classic cases. Encourage 
 
 ---
 
-## Add-ons
+## Tips
 
-Each afternoon there may be add-on inpatient (or occasional outpatient) joint injections or US aspirations. ED/Bone is first line; you back them up.
+- Learn to be efficient and move through cases quickly — goal of 30/day by mid-year
+- Learn from everyone's cases, even the ones you're not dictating
+- Teach and share cases with other learners — supporting the residents is fun and benefits you both
 
 ---
 

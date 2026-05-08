@@ -18,6 +18,15 @@ Sedation steps are documented on the [Procedures page](procedures-uh.md#sedation
 
 ---
 
+## Tips
+
+- Research advanced procedure techniques ahead of time
+- Always make your own procedure plan — it may be modified by the attending, but that's how you learn
+- Learn CT fluoro controls early and well
+- Research and understand your biopsy device options
+
+---
+
 ## Related pages
 
 - [Procedures](procedures-uh.md) — workflow and sedation detail

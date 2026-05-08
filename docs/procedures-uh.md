@@ -45,8 +45,15 @@ For procedures requiring conscious sedation (vertebroplasties, bone biopsies, ab
 
 - Patients return to 10-bed for recovery
 - Place post-procedure orders **immediately** after the procedure (order sets exist in HL)
-- For biopsies, place surgical pathology orders
-- **Always accompany the patient back to Recovery after any case with Anesthesiology** (fellow or faculty)
+- For biopsies, place surgical pathology orders prior to the procedure.
+
+---
+
+## Tips
+
+- Learn to use the fluoro controls early and well
+- Ask for feedback at the end of each shift
+- Learn how to keep the day moving and on time — ask for tips!
 
 ---
 
