@@ -78,11 +78,11 @@ When adding, removing, or renaming a page, update `mkdocs.yml` to match.
 
 Every page in the nav exists as a file in `docs/`, but most are stubs awaiting migration from the source manual. State as of the latest pass:
 
-- **Functional drafts** (establish the pattern, will get further edits): `index.md`, `daily-workflow.md`, `communication.md`, `procedures-uh.md`, `taking-call.md`, `time-off.md`.
+- **Functional drafts** (establish the pattern, will get further edits): `index.md`, `daily-operations.md`, `procedures-uh.md`, `taking-call.md`, `time-off.md`.
 - **Stubs** (skeleton + headings only, content not yet migrated): everything else — `clinical-schedule.md`, `academic-time.md`, `conferences.md`, `meetings.md`, `meeting-dates.md`, `research.md`, `float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`, `logistics.md`, `wimr-contrast.md`, `rr-priorities.md`, `discrepancies.md`, `spine-workflow.md`, `contacts.md`, `wellness.md`.
 
 `procedures-uh.md` remains the reference example for rotation pages. Match its pattern when filling in the rotation stubs (`float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`): TL;DR → checklist or timeline → collapsibles for details → related links at the bottom.
 
 ## Next up
 
-Pick up in **Daily Operations** (`daily-workflow.md`, `communication.md`).
+Pick up in **Schedule & Time Off** (`clinical-schedule.md`, `time-off.md`).
