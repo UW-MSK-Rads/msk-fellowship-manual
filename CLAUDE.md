@@ -82,3 +82,7 @@ Every page in the nav exists as a file in `docs/`, but most are stubs awaiting m
 - **Stubs** (skeleton + headings only, content not yet migrated): everything else — `clinical-schedule.md`, `academic-time.md`, `conferences.md`, `meetings.md`, `meeting-dates.md`, `research.md`, `float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`, `logistics.md`, `wimr-contrast.md`, `rr-priorities.md`, `discrepancies.md`, `spine-workflow.md`, `contacts.md`, `wellness.md`.
 
 `procedures-uh.md` remains the reference example for rotation pages. Match its pattern when filling in the rotation stubs (`float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`): TL;DR → checklist or timeline → collapsibles for details → related links at the bottom.
+
+## Next up
+
+Pick up in **Daily Operations** (`daily-workflow.md`, `communication.md`).
