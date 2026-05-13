@@ -9,7 +9,7 @@ The full clinical schedule is at **[radiology.wisc.edu](https://www.radiology.wi
 - Assigned to one service per week early in the year. More daily variety later.
 - [Conferences](conferences.md) are in your Outlook calendar under your UWhealth.org account with links to join.
 - Day runs from 7:15 AM until all studies time stamped up to 4:30 PM are read out.
-- Dr. Blankenbaker covers last hour on most Mondays and Wednesdays.
+- Dr. Blankenbaker covers last hour on most Mondays and Wednesdays. Final sign radiographs on your own. Read out CT/MRI with Dr. Blankenbaker remotely up until 4:30.
 
 ### Absences
 
