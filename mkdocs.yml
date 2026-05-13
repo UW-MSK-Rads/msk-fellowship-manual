@@ -75,9 +75,7 @@ nav:
     - Science Drive Medical Center: smc.md
   - On Call:
     - Taking Call: taking-call.md
-  - Schedule & Time Off:
-    - Clinical Schedule: clinical-schedule.md
-    - Time Off Requests: time-off.md
+  - Schedule & Time Off: schedule.md
   - Conferences & Academics:
     - Teaching Conferences: conferences.md
     - Academic Time: academic-time.md

@@ -1,7 +1,7 @@
 # 2025–2026 Meeting Dates
 
 !!! warning "Blackout reminder"
-    No vacation during **ISS, RSNA, SSR, ARRS** weeks, or Madison/Middleton school spring breaks. See [time off rules](time-off.md).
+    No vacation during **ISS, RSNA, SSR, ARRS** weeks, or Madison/Middleton school spring breaks. See [time off rules](schedule.md#blackout-weeks).
 
 ## MSK & radiology meetings
 

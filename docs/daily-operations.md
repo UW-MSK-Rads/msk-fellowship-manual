@@ -2,7 +2,7 @@
 
 ## Clinical Schedule
 
-The full clinical schedule is at **[radiology.wisc.edu](https://www.radiology.wisc.edu)** → Intranet → Schedules → Clinical Schedule, or download the **Qgenda** app for your phone. For schedule changes and time off requests, refer to [Schedule & Time Off](time-off.md).
+The full clinical schedule is at **[radiology.wisc.edu](https://www.radiology.wisc.edu)** → Intranet → Schedules → Clinical Schedule, or download the **Qgenda** app for your phone. For schedule changes and time off requests, refer to [Schedule & Time Off](schedule.md).
 
 ### Daily/Weekly Workflow
 
@@ -15,7 +15,7 @@ The full clinical schedule is at **[radiology.wisc.edu](https://www.radiology.wi
 
 - **Calling in sick:** email section chief, admin assistant, fellowship director, and your attending of the day as early as possible. Consider texting the section chief and fellowship director first thing in the morning if it's last minute.
 - **Late arrivals:** notify attending early if you have journal club or an offsite conference and will be arriving to service late.
-- **Time off requests:** consult the [time off request policy](time-off.md).
+- **Time off requests:** consult the [time off request policy](schedule.md#how-to-request-time-off).
 
 ## Communication
 

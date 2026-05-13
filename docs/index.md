@@ -22,8 +22,8 @@
 
 ??? abstract "Schedule & Time Off"
 
-    - [**Clinical Schedule**](clinical-schedule.md) — rotation block schedule and assignments
-    - [**Time Off Requests**](time-off.md) — vacation, conference leave, and last-minute changes
+    - [**Clinical Schedule**](schedule.md#clinical-schedule) — Qgenda lookup
+    - [**Time Off Requests**](schedule.md#how-to-request-time-off) — vacation, conference leave, and last-minute changes
 
 ??? abstract "Conferences & Academics"
 
