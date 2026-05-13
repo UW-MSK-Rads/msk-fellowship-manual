@@ -1,16 +1,11 @@
 # Spine Imaging Workflow
 
-!!! warning "Source content needed"
-    The original manual lists this as Appendix C but has no content under the header. The actual MSK / Neuro spine split needs to be sourced from the program before this page can be filled in.
+Routing for spine studies depends on patient location (outpatient vs. ED/inpatient), the ordering department, and — for ED/inpatient — the alternating Ortho spine surgery week. Use the flowchart below; rules image has the detail.
 
-## MSK reads
+## Routing flowchart
 
-*TK — Ortho spine, Rehab spine, family medicine, outside providers (per Sports/Spine rotation page).*
+![Spine reading workflow: MSK / Neuro / Peds routing](images/spine-workflow/routing-flowchart.png)
 
-## Neuro reads
+## Detailed rules
 
-*TK — Neurology, Oncology, Neurosurgery, internal medicine.*
-
-## ED / on-call spine coverage
-
-*TK — MSK reads ED and inpatient spine CT/MRI on Ortho spine surgery weeks per the posted schedule, unless a head/maxillofacial study is also ordered.*
+![Spine routing rules and alternating week instructions](images/spine-workflow/routing-rules.png)
