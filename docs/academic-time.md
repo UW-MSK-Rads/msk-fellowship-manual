@@ -1,16 +1,20 @@
 # Academic Time
 
-!!! tldr "TL;DR"
-    *Stub — content TK. Academic time is for scholarly work, not a day off. Stay local and pager-available. No out-of-town interviews on academic days.*
-
 ## What it's for
 
-*TK*
+Scholarly work: conference prep, writing, meetings, research.
 
-## What it isn't for
+## Rules
 
-*TK — interviews out of town, sleeping in, "day off."*
+- **Stay reachable.** Pager on, remain local — hospital-wide policy for anyone on academic time. You may be called in for emergencies.
+- **Not a day off.** No sleeping in, no out-of-town job interviews, no flights during an academic afternoon.
+- **No scholarly activity → clinical assignment.** If you don't have something to work on, you'll be given clinical duties.
+- **Amount varies** with the overall schedule and whether fellows are off service.
 
-## Elective time / outside rotations
+## Outside rotations (e.g. breast)
 
-*TK — no formal elective block; coordinate well in advance for breast or other rotations.*
+There's no elective block. To rotate on a non-MSK service for a week or two:
+
+- Plan it for the **second half of the year**.
+- Coordinate with the other fellows **4–6 months in advance** — your block precludes any other fellow taking academic time or vacation that week.
+- Notify the **administrative assistant** and **section chief** by end of January.
