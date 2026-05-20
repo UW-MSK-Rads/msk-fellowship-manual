@@ -111,3 +111,19 @@
 .md-typeset .pro-tip > summary {
   background-color: rgba(245, 166, 35, 0.1);
 }
+
+/* Conferences page — bump admonition + table text for at-a-glance scanning */
+.md-typeset .conferences-page .admonition-title,
+.md-typeset .conferences-page details > summary {
+  font-size: 1.05rem;
+}
+.md-typeset .conferences-page .admonition p,
+.md-typeset .conferences-page details p {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+.md-typeset .conferences-page table:not([class]) th,
+.md-typeset .conferences-page table:not([class]) td {
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
