@@ -20,10 +20,9 @@ EMH picks up ≥10 outpatient MR/CT and SMC ≥5 to help decompress your list.
 
 ---
 
-## Spine and pediatric ownership
+## Spine ownership
 
-- **Outpatient spine MR/CT** is shared with Neuroradiology. We read Ortho spine, Rehab spine, family medicine, and outside providers. Neuro reads Neurology, Oncology, Neurosurgery, internal medicine. See [Spine imaging workflow](spine-workflow.md) when in doubt.
-- **Pediatric cases** from AFCH and small satellite clinics go to Peds. *We* read peds from SMC/EMH Sports & Spine clinics, Dr. Hennessey (tumor surgery), and Sports Medicine (Drs. Wilson, Bernhardt, Carr, Brooks, Watson, Hammer).
+**Outpatient spine MR/CT** is shared with Neuroradiology. We read Ortho spine, Rehab spine, family medicine, and outside providers. Neuro reads Neurology, Oncology, Neurosurgery, internal medicine. See [Spine imaging workflow](spine-workflow.md) when in doubt.
 
 ---
 
