@@ -79,16 +79,11 @@ nav:
   - Conferences & Academics:
     - Teaching Conferences: conferences.md
     - Academic Time: academic-time.md
-    - Meeting Attendance: meetings.md
-    - Meeting Dates: meeting-dates.md
-    - Research: research.md
-  - Logistics & Reference:
-    - Logistics: logistics.md
+  - Reference:
     - WIMR Contrast Coverage: wimr-contrast.md
     - MSK RR Priorities: rr-priorities.md
     - Discrepancies (Prelim/Final): discrepancies.md
     - Spine Imaging Workflow: spine-workflow.md
-    - Contact List: contacts.md
     - Wellness Resources: wellness.md
 
 extra:

@@ -61,8 +61,8 @@ The `procedures-uh.md` page is the current reference for what a well-structured 
 3. **Clinical Rotations** — one page per service: `procedures-uh.md`, `float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`
 4. **On Call** — `taking-call.md`
 5. **Schedule & Time Off** — `clinical-schedule.md`, `time-off.md`
-6. **Conferences & Academics** — `conferences.md`, `academic-time.md`, `meetings.md`, `meeting-dates.md`, `research.md`
-7. **Logistics & Reference** — `logistics.md`, `wimr-contrast.md`, `rr-priorities.md`, `discrepancies.md`, `spine-workflow.md`, `contacts.md`, `wellness.md`
+6. **Conferences & Academics** — `conferences.md`, `academic-time.md`
+7. **Reference** — `wimr-contrast.md`, `rr-priorities.md`, `discrepancies.md`, `spine-workflow.md`, `wellness.md`
 
 When adding, removing, or renaming a page, update `mkdocs.yml` to match.
 
@@ -79,10 +79,10 @@ When adding, removing, or renaming a page, update `mkdocs.yml` to match.
 Every page in the nav exists as a file in `docs/`, but most are stubs awaiting migration from the source manual. State as of the latest pass:
 
 - **Functional drafts** (establish the pattern, will get further edits): `index.md`, `daily-operations.md`, `procedures-uh.md`, `taking-call.md`, `schedule.md`, `academic-time.md`, `spine-workflow.md`.
-- **Stubs** (skeleton + headings only, content not yet migrated): everything else — `conferences.md`, `meetings.md`, `meeting-dates.md`, `research.md`, `float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`, `logistics.md`, `wimr-contrast.md`, `rr-priorities.md`, `discrepancies.md`, `contacts.md`, `wellness.md`.
+- **Stubs** (skeleton + headings only, content not yet migrated): everything else — `float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`, `rr-priorities.md`, `discrepancies.md`, `wellness.md`.
 
 `procedures-uh.md` remains the reference example for rotation pages. Match its pattern when filling in the rotation stubs (`float.md`, `sports-spine.md`, `ed-bone.md`, `emh.md`, `smc.md`): TL;DR → checklist or timeline → collapsibles for details → related links at the bottom.
 
 ## Next up
 
-Pick up in **Conferences** (`conferences.md`, `meetings.md`, `research.md`) and **Logistics** (`logistics.md`).
+Pick up in the **Reference** section (e.g., `rr-priorities.md`, `discrepancies.md`, `wellness.md`).

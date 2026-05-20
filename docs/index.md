@@ -29,18 +29,13 @@
 
     - [**Teaching Conferences**](conferences.md) — recurring fellow and section conferences
     - [**Academic Time**](academic-time.md) — protected time and how to use it
-    - [**Meeting Attendance**](meetings.md) — which meetings are required
-    - [**Meeting Dates**](meeting-dates.md) — calendar of key dates
-    - [**Research**](research.md) — expectations and project support
 
-??? abstract "Logistics & Reference"
+??? abstract "Reference"
 
-    - [**Logistics**](logistics.md) — scrubs, white coats, offices, reimbursement, moonlighting
     - [**WIMR Contrast Coverage**](wimr-contrast.md)
     - [**MSK RR Priorities**](rr-priorities.md)
     - [**Discrepancies (Prelim/Final)**](discrepancies.md)
     - [**Spine Imaging Workflow**](spine-workflow.md)
-    - [**Contact List**](contacts.md) — phone numbers and pagers
     - [**Wellness Resources**](wellness.md)
 
 </div>

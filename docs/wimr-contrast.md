@@ -1,24 +1,18 @@
 # WIMR Contrast Coverage
 
-!!! tldr "TL;DR"
-    *Stub — content TK. Pager-ready coverage of WIMR research scanners for contrast reactions. Most days you stay on your clinical service and respond by pager.*
+## Guidelines for WIMR Contrast Coverage
 
-## What you're covering
-
-*TK — MR, CT, PET/CT, PET/MR at WIMR; UW MR7 at the Department of Human Oncology.*
-
-## Schedule and notification
-
-*TK — 48–72h email reminder; schedule lives at radiology.wisc.edu intranet > Schedules > Clinical Schedule > WIMR Contrast.*
-
-## Trades
-
-*TK*
-
-## Contrast reaction response
-
-*TK — kit and crash cart locations; Blue Cart (262-0000) and 911.*
-
-## Key contacts
-
-*TK — Chris Jaskowiak (265-8734, pager 8546); Marne Vanderpas (265-8732); Dr. Greg Avey (pager 2680).*
+- On pre-determined days, fellows will be expected to spend their time in WIMR, to be available to monitor contrast reactions for research and clinical studies performed in MRI, CT, PET/CT and PET/MR scanners at WIMR, as well as for research scans performed on UW MR7 located at the department of Human Oncology. Should there be long gaps between two different injections, or the last injection of the day is complete, fellows may leave WIMR, but should check with front desk receptionist first/be prepared to return to WIMR promptly if paged. Fellows will stay for 30 minutes after the last injection.
+- Fellows will receive a reminder notification via email 48-72 hours prior to their schedule WIMR contrast coverage day. This email will include the currently scheduled procedures that require contrast injections. This is a tentative schedule subject to changes and add-ons. Contrast procedures may be scheduled from 8:00AM until 5:00PM. Fellows can expect to mainly cover procedures scheduled between 8:00-9:00AM, and 11:30-1:30PM when residents will be unavailable. In specific cases, if a contrast procedure is to be scheduled at 7:30AM, later cases on that day should be scheduled such that the fellow can leave no later than 4:30PM.
+- The WIMR Contrast Coverage schedule is found at [https://radiology.wisc.edu/](https://radiology.wisc.edu/) > Intranet > Schedules > Clinical Schedule > WIMR Contrast
+- If fellows are scheduled to cover WIMR contrast injections and a conflict arises, it is the fellow's responsibility to find alternative coverage with another fellow who is available. The fellows or their administrative assistant may make these changes. If the fellow cannot find another fellow to trade with, they should notify their Section Chief or Fellowship Director to resolve this issue.
+    - Please notify or CC Cecilia Cabrera <ccabrera@uwhealth.org> on any communication regarding changes to the schedule so that the calendar can be updated accordingly. If Cecilia is unavailable, you may contact Melanie Thompson, Operations Manager, at <mthompson3@uwhealth.org> or 608-263-7098.
+- There are two designated work areas for the fellows:
+    - WIMR Room 2415 PACS, phone: 608-263-8888
+    - WIMR Room B1228 PET Fellow/Resident Reading room phone: 608-263-1252
+    - Cell phone reception can be limited in some areas; however, pagers do work.
+- Contrast scheduling will occur throughout the year, except for the Friday after Thanksgiving, the week between Christmas and New Years, and the first week in July. Contrast scheduling will continue during the meeting weeks as long as there are a sufficient number of fellows available with academic days.
+- Contrast Reaction Kits and Crash Carts are in the CT control room (1241) and the PET/CT hallway (B1248). All fellows are expected to be up to date on the treatment of contrast reactions and should familiarize themselves with the location and contents of the Contrast Reaction Kits. Radiology HR issues badge access to these areas. Please let Cecilia Cabrera know if you do not receive access clearance.
+- For DHO (MR7) MRI, the contrast reaction tray is located on the bottom shelf of the cabinet directly behind the scanner console in the control room. A "Basic Life Support" cart is in the storage closet (K4/B31) across from the MRI suite. A full "Crash Cart" can be found near the nurse's station in L7/B20. Emergency telephone and paging instructions are on the wall behind the scanner console.
+- To call a Blue Cart have a member of the response team, call 260-0000. The hospital code team will respond. In addition, please also call 911. The Madison Fire Department will respond.
+- If you have any questions or concerns regarding the WIMR contrast schedule, please contact Cecilia Cabrera at <ccabrera@uwhealth.org> or Melanie Thompson at <mthompson3@uwhealth.org>.
