@@ -31,8 +31,6 @@ No vacation during:
 - **ISS**, **RSNA**, **SSR**, **ARRS** weeks
 - **Spring Break** weeks for Madison and Middleton schools
 
-See [conference dates](conferences.md) for specific weeks this year.
-
 ## Bereavement, interviewing, sick days
 
 | Situation | Policy |
@@ -41,13 +39,13 @@ See [conference dates](conferences.md) for specific weeks this year.
 | Job interviews | Use **vacation days** — not sick or academic |
 | Sick day | Notify per [communication policy](daily-operations.md#communication). If we pull a fellow from academic to cover, you owe them academic time back. |
 
-## Meeting day budget
+## Meetings
 
 - **5 days Meeting Presenting** (you have an accepted project)
 - **5 days Meeting Attending** (no presentation obligation)
 - **= 10 meeting days total**, regardless of number of projects.
-
-Vacation days may be used for extra meetings, subject to the coverage rules above. **Get approval before committing to virtual attendance.**
+- Vacation days can be used for extra meetings if desired.
+- Carefully check finance rules at [intranet.radiology.wisc.edu/finance](https://intranet.radiology.wisc.edu/finance/) before booking travel.
 
 ## Last-minute changes (after schedule is made)
 
