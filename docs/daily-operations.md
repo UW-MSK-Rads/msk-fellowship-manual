@@ -15,7 +15,7 @@ The full clinical schedule is at **[radiology.wisc.edu](https://www.radiology.wi
 
 - Follow [reading room priorities](rr-priorities.md) but check the **MSK All** list frequently.
 - **Spine** studies are shared with neuroradiology. Consult the [spine workflow](spine-workflow.md) or ask your attending. If a case on our list should go to neurorads, contact our reading room assistant Heather Elvord to check it out and move it over.
-- **Pediatric** cases from AFCH and small satellite clinics go to Peds. *We* read peds from SMC/EMH Sports & Spine clinics, Dr. Hennessey (tumor surgery), and Sports Medicine (Drs. Wilson, Bernhardt, Carr, Brooks, Watson, Hammer).
+- **Pediatric** cases from AFCH and small satellite clinics go to Peds. *We* read peds from SMC/EMH Sports & Spine clinics, Dr. Hennessey (tumor surgery), and Sports Medicine (Drs. Wilson, Bernhardt, Carr, Brooks, Watson, Hammer). We also read all Peds MRI shoulders, hips, and arthrograms for sports medicine indications (labral tear, etc.).
 
 ### Absences
 
