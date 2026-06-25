@@ -23,6 +23,12 @@ EMH owns protocoling for **all** MSK spine studies. Do them in batches to keep t
 
 ---
 
+## Remote staffing
+
+Dr. Blankenbaker staffs EMH remotely. You will read out all diagnostic studies (including ultrasound) with her over Teams. For procedures, you will plan them with Dr. Blankenbaker and then perform and sign them independently. This won't start until several weeks into the year. Preview your schedule on these days to make sure that there's nothing unfamiliar or too advanced to perform on your own with remote staffing (should be rare).
+
+---
+
 ## Tips
 
 - Keep an eye out for ED/inpatient cross-sectional studies — this is your primary responsibility. Share cases when a Bone 2 resident is on, but make sure they get resulted promptly.
