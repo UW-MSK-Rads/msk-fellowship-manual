@@ -33,4 +33,5 @@ The full clinical schedule is at **[radiology.wisc.edu](https://www.radiology.wi
 
 ## Related
 
+- [Contacts](contacts.md) — reading room numbers, pagers, faculty and fellow directory
 - [Taking call](taking-call.md) — what changes on weekends and holidays
