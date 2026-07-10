@@ -31,7 +31,7 @@ For procedures requiring conscious sedation (vertebroplasties, bone biopsies, ab
 ### Night before
 
 - Place pre-procedure orders for admission to the **10-bed unit**
-- The MSK Nurse (Erica Timm, **263-6871**, pager **9585**) can help if needed
+- The MSK Nurse (**263-6871**, pager **9585**) can help if needed
 
 ### Morning of
 

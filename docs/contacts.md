@@ -49,7 +49,7 @@ All fellows share office **C5/395**, phone **608-263-6042**.
 
 | Name | Role | Room | Office | Cell | Pager |
 |---|---|---|---|---|---|
-| Erica Timm | Clinical Program Coordinator | G3/313 | 608-263-6871 | 920-707-1909 | 5201 |
+| _Pending_ | Clinical Program Coordinator | G3/313 | 608-263-6871 | — | 5201 |
 | Natalie Roisum | Administrative Assistant | MFCB | 608-774-9843 | — | — |
 | Nicole Howard | Administrative Assistant | MFCB | 608-617-4156 | — | — |
 
