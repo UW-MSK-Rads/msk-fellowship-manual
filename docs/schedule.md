@@ -57,3 +57,16 @@ No vacation during:
 ## Unused vacation
 
 Academic staff get paid out for unused vacation. A full day = 8 hours; monthly salary breaks into an hourly rate.
+
+## Paid leave accrual
+
+Fellows are 12-month academic staff. Leave is granted on a **fiscal year basis (July 1 – June 30)**.
+
+| Leave | Earned | Carryover |
+|---|---|---|
+| Vacation | 176 hrs (22 days)/year | Carries to the end of the **next** fiscal year; lost if not used or banked by then |
+| Personal holiday | 36 hrs (4.5 days)/year | Use within the fiscal year or lose it |
+| Sick leave | 176 hrs (22 days) for the first 18 months, then 3.68 hrs/paycheck (96 hrs/year) | Accumulates without limit, provided all leave reports are submitted |
+| Legal holiday | 72 hrs (9 days)/year | Use within the fiscal year or lose it |
+
+Full details and part-time proration: [UW System Paid Leave Benefits (PDF)](https://www.wisconsin.edu/ohrwd/benefits/download/leave/annualsum/fasl.pdf).
